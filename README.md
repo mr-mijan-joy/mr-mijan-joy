@@ -5,6 +5,17 @@
 # 💫 About Me:
 👨‍💻 Web & App Developer | 💡 Coding Enthusiast | 🌐 Creating Digital Magic | 🚀 Turning Lines of Code into Stunning Experiences | Let's Build the Future Together! #CodeIsArt<br><br>
 
+- 🔭 I’m currently working on Upwork and Fiverr 
+- 🌱 I’m currently learning Java 
+- 👯 I’m looking to collaborate on GitHub  
+- 🤔 I’m looking for help with Learning Game Development 
+- 💬 Ask me about Bug Free Codes 
+- 📫 How to reach me: mrmijanjoy@gmail.com 
+- 😄 Pronouns: dev 
+- ⚡ Fun fact: You are not a superman if you code without bugs, Your are a superman when you deal with 100 millions bugs 
+
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr_mijan_joy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.mrmijanjoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_mijan_joy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrmijanjoy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrmijanjoy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrmijanjoy) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mijanur-Rahman-Joy-3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrmijanjoy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22789793) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrmijanjoy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mijanurrahmanjoy) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mrmijanjoy) 
