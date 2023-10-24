@@ -1,4 +1,5 @@
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D5616AQGsdSGFaEHh7w/profile-displaybackgroundimage-shrink_350_1400/0/1697963842904?e=1703721600&v=beta&t=kor6XAg_JaH563EGY_BJ0-X2KS1j9hgkuVdGgZHm4l4))
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGsdSGFaEHh7w/profile-displaybackgroundimage-shrink_350_1400/0/1697963842904?e=1703721600&v=beta&t=kor6XAg_JaH563EGY_BJ0-X2KS1j9hgkuVdGgZHm4l4)
+
 
 
 # 💫 About Me:
