@@ -28,6 +28,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-mijan-joy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mijan-joy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mijan-joy)  
+
+![GitHub metrics](https://metrics.lecoq.io/mr-mijan-joy)  
+
+
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mr-mijan-joy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
