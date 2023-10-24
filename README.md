@@ -60,7 +60,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mr-mijan-joy&icon=9&color=6)](https://visitcount.itsvg.in)
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+</div>
+## 🎢 Statistics
 <div align="center">
 <a href="https://github.com/mr-mijan-joy">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-mijan-joy&theme=2077" height="180em" />
