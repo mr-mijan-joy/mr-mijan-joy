@@ -49,3 +49,28 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://twitter.com/mrmijanjoy" target="blank"><img src="https://img.shields.io/twitter/follow/mrmijanjoy?logo=twitter&style=for-the-badge" alt="mrmijanjoy" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [www.mijanurrahmanjoy.com](www.mijanurrahmanjoy.com)
+
+- 📝 I regularly write articles on [www.byteblogs.com](www.byteblogs.com)
+
+- 📄 Know about my experiences [www.mijanurrahmanjoy.com/resumes](www.mijanurrahmanjoy.com/resumes)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mrmijanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrmijanjoy" height="30" width="40" /></a>
+<a href="https://twitter.com/mrmijanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmijanjoy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mr_mijan_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr_mijan_joy" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mrmijanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mrmijanjoy" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-mijan-joy&show_icons=true&locale=en&layout=compact" alt="mr-mijan-joy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-mijan-joy&show_icons=true&locale=en" alt="mr-mijan-joy" /></p>
+
