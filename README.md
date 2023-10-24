@@ -62,7 +62,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-mijan-joy&show_icons=true&locale=en&layout=compact" alt="mr-mijan-joy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-mijan-joy&show_icons=true&locale=en" alt="mr-mijan-joy" /></p>
 
