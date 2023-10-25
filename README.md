@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [www.mijanurrahmanjoy.com](www.mijanurrahmanjoy.com)
 - 📝 I regularly write articles on [www.byteblogs.com](www.byteblogs.com)
 - 📄 Know about my experiences [www.mijanurrahmanjoy.com/resumes](www.mijanurrahmanjoy.com/resumes)
-- 😄 Pronouns: dev 
+- 😄 Pronouns: Miro 
 - ⚡ Fun fact: You are not a superman if you code without bugs, Your are a superman when you deal with 100 millions bugs 
 
 
