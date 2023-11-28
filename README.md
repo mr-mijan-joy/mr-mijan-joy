@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mijanur Rahman Joy</h1>
-<h3 align="center">Programmer | Web and App Developer</h3>
+![Programmer | Web Developer](https://media.licdn.com/dms/image/D5616AQGsdSGFaEHh7w/profile-displaybackgroundimage-shrink_350_1400/0/1697963843481?e=1706745600&v=beta&t=psIOy8M6SSnUyQ5dwwW7BliRI3eZcPM2N-MjTyuHcbY)
 
+### Hi there 👋, my name is Mijanur Rahman Joy
+#### Programmer | Web Developer
+
+Web & App Developer | Coding Enthusiast | Creating Digital Magic | Turning Lines of Code into Stunning Experiences. I am passionate about continuously learning and staying up-to-date with the latest industry trends and technologies. This allows me to adapt quickly and efficiently to new challenges and deliver high-quality results. My attention to detail, analytical mindset, and problem-solving abilities enable me to identify and resolve issues effectively, ensuring the optimal functionality and performance of the software I develop.
 
 
 - 🔭 I’m currently working on **Bytecms**
@@ -16,7 +19,9 @@
 - 💬 Ask me about **PHP,Python,C,Javascript,Dart**
 
 - 📫 How to reach me **mrmijanjoy@gmail.com**
-
+- 
+- 😄 Pronouns: miro
+- 
 - 📄 Know about my experiences [www.mijanurrahmanjoy.com/resumes](www.mijanurrahmanjoy.com/resumes)
 
 - ⚡ Fun fact **I think programming languages are made by Aliens!**
