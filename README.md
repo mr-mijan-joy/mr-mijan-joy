@@ -19,9 +19,7 @@ Web & App Developer | Coding Enthusiast | Creating Digital Magic | Turning Lines
 - 💬 Ask me about **PHP,Python,C,Javascript,Dart**
 
 - 📫 How to reach me **mrmijanjoy@gmail.com**
-- 
 - 😄 Pronouns: miro
-- 
 - 📄 Know about my experiences [www.mijanurrahmanjoy.com/resumes](www.mijanurrahmanjoy.com/resumes)
 
 - ⚡ Fun fact **I think programming languages are made by Aliens!**
