@@ -6,7 +6,7 @@
 Web & App Developer | Coding Enthusiast | Creating Digital Magic | Turning Lines of Code into Stunning Experiences. I am passionate about continuously learning and staying up-to-date with the latest industry trends and technologies. This allows me to adapt quickly and efficiently to new challenges and deliver high-quality results. My attention to detail, analytical mindset, and problem-solving abilities enable me to identify and resolve issues effectively, ensuring the optimal functionality and performance of the software I develop.
 
 
-- 🔭 I’m currently working on **Bytecms**
+- 🔭 I’m currently working on **Nimbus-nest**
 
 - 🌱 I’m currently learning **C++**
 
